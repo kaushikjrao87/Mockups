@@ -1,0 +1,7 @@
+{
+  "name": "Copy of  AI Creo Studio 18th dec",
+  "description": "chatbot for reverse engineer prompt, bulk image watermark/logo",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
